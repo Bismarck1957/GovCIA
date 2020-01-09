@@ -1,0 +1,30 @@
+h1, h2, h3, h4, p{
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Cute Font', cursive;
+}
+body{
+	background-image: url(abstractHackerBlue.jpg);
+	background-size: 100% auto;
+	background-color: #000000;
+}
+p{
+	font-size: 30px;
+}
+h1{
+	font-size: 100px;
+}
+h2{
+	font-size: 50px;
+}
+h3{
+	font-size: 45px;
+}
+h4{
+	font-size: 40px;	
+}
+.box{
+	background-color: rgb(23, 0, 153, 70%);
+	border-radius: 10px;
+	border: 3px solid white;
+}
